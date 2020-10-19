@@ -4,9 +4,9 @@ Yes, yes... I know there are a million wordpress login bruteforcers out there. H
 
 USAGE:
 Python3 WordPBrute.py:
-[*] -U, --users <UserNameFile>
-[*] -P, --passwords <PasswordFile>
-[*] -H, --HOST <HOST>
+* -U, --users <UserNameFile>
+* -P, --passwords <PasswordFile>
+* -H, --HOST <HOST>
 
 That is pretty much it lol.
 Use at your own risk :D
